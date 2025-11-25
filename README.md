@@ -6,7 +6,7 @@
 🔥 Passionate about coding & technology  
 🚀 Always improving my skills  
 📍 Based in Indonesia  
-📧 Contact: your@email.com  
+📧 Contact: ahmadmaulidun17@gmail.com
 
 ---
 
@@ -40,7 +40,6 @@
 <p align="left">
 <a href="https://instagram.com/yourig"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://youtube.com/@yourYT"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
 
 ---
