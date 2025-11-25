@@ -38,8 +38,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://instagram.com/yourig"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/midun_ahmad17/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/ahmad-maulidun-91ab74391/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
