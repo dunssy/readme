@@ -12,7 +12,7 @@
 
 ### 🧠 Skills
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,python,mysql,git,github,vscode" />
 </p>
 
 ---
